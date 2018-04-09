@@ -1,0 +1,3 @@
+repostories\IamUserRepository.class
+domain\Permissions.class
+web\filters\LogonFilter.class
